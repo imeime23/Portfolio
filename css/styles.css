@@ -1,22 +1,36 @@
+body {
+  background-color:rgb(4, 136, 136);
+  }
+
+.centered-image {
+  margin: auto;
+  width: 30%;
+  height: auto;
+  display: block;
+}
+
 h1 {
-  color: darkred;
+  font-size: 400%;
+  color: darkblue;
   text-align: center;
 }
 
 h2 {
+  font-size: 200%;
   font-style: italic;
   text-align: center;
   color: red;
 
-  body {
-  background-color: black;
-  font-family: sans-serif;
-  text-align: center;
-  }
-
 .column {
   width: 320px;
   float: center;
+  margin: 1px;
+  border: 2px solid blue;
+  padding: 4px;
+  background-color: red;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 60%;
 }
 
 .my-class {
@@ -28,11 +42,3 @@ h2 {
   margin-bottom: 20px;
   width: 60%;
 }
-
-.centered-image {
-  margin: auto;
-  max-width: 50px;
-  max-height: 50px;
-  display: block;
-}
-
