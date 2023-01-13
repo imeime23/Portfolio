@@ -1,0 +1,21 @@
+.column {
+  width: 320px;
+  float: center;
+}
+
+.my-class {
+  margin: 1px;
+  border: 2px solid blue;
+  padding: 4px;
+  background-color: red;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 60%;
+}
+
+.centered-image {
+  margin: auto;
+  max-width: 50px;
+  max-height: 50px;
+  display: block;
+}
