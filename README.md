@@ -10,12 +10,15 @@
 * _GitHub_
 * _VS Code_
 
-
 ## Description
 
 _{This website will allow users and potential employers see Emiliano's Web Development projects.}_
 
 ## Setup/Installation Requirements
+* _To clone this repository to your desktop do the following:_
+* _Select the location in your computer to save the project_
+* _Open your Terminal and use the "git clone [https://github.com/imeime23/Portfolio.git]" command to clone the project_
+* _If we run "git remote" command, we see that our newly created local .git repository is automatically linked with the nickname "origin" to the remote repository from which we clone_
 
 * _To clone this repository to your desktop do the following:_
 * _Select the location where you want to clone the porject on your computer
