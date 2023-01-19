@@ -16,15 +16,9 @@ _{This website will allow users and potential employers see Emiliano's Web Devel
 
 ## Setup/Installation Requirements
 * _To clone this repository to your desktop do the following:_
-* _Select the location in your computer to save the project_
-* _Open your Terminal and use the "git clone [https://github.com/imeime23/Portfolio.git]" command to clone the project_
-* _If we run "git remote" command, we see that our newly created local .git repository is automatically linked with the nickname "origin" to the remote repository from which we clone_
-
-* _To clone this repository to your desktop do the following:_
-* _Select the location where you want to clone the porject on your computer
-* _Open your Terminal and use the "git clone [https://github.com/imeime23/Portfolio.git]" command to clone the project_
-* _If we run "git remote" command, we see that our newly created local .git repository is automatically linked with the nickname "origin" to the remote repository from which we clone_
-
+* _Open the Git Bash Terminal (or a similar tool) to select the location in your computer to save the project_
+* _Use the "git clone [https://github.com/imeime23/Portfolio.git]" command to clone the project_
+* _Run the "git remote" command, to see that our newly created local .git repository is automatically linked with the nickname "origin" to the remote repository from which you clone_
 
 ## Link to site on GitHubPages
 
